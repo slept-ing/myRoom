@@ -2,3 +2,4 @@ Hello this is my new game!
 My first change.
 the third time!
 the forth line~
+a new line
